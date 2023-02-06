@@ -1,0 +1,19 @@
+filter_name = "Cataclysm"
+filter_description = "Items from the Cataclysm expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "C",
+    "C-",
+    "3.",
+    "CATA",
+    "icon:409545",
+    "icon:574788",
+    "icon:575534",
+]
+
+[replacers]
+ADDON_COLOR = 0xEB4D00
+TOC_VERSION = "100005"
+CURSE_ID = ""
+WAGO_ID = ""
+WOW_INTERFACE_ID = ""
