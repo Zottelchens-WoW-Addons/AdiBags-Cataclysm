@@ -1,0 +1,183 @@
+category_name = "Tradegoods"
+category_color = 0x786F52
+category_description = { _ = "Trading tradegoods is good. Trade tradegoods for good goods." }
+mergeable = true
+merged_by_default = true
+
+[cloth]
+name = "Cloth"
+description = { _ = "Cloth used in Tailoring." }
+color = 0xFEB95F
+items = [53010, 54440, 53643]
+
+[elemental]
+name = "Elemental"
+description = { _ = "Elementals used in all professions." }
+color = 0xC2095A
+items = [52326, 52325, 52329, 52328, 52327, 54464]
+
+[enchanting]
+name = "Enchanting"
+description = { _ = "Enchanting materials for enchanting weapons & armor." }
+color = 0x540D6E
+items = [52555, 52722, 52721, 52719, 52718, 52720]
+
+[inscription]
+name = "Inscription"
+description = { _ = "Inscription materials for creating glyphs or other paper related goods." }
+color = 0xFFD23F
+items = [
+    61978,
+    61979,
+    61980,
+    61988,
+    61989,
+    61990,
+    61991,
+    61992,
+    61993,
+    61994,
+    61995,
+    61996,
+    61997,
+    61998,
+    61999,
+    62000,
+    62001,
+    62002,
+    62003,
+    62004,
+    62005,
+    62006,
+    62007,
+    62008,
+    62009,
+    62010,
+    62011,
+    62012,
+    62013,
+    62014,
+    62015,
+    62016,
+    62017,
+    62018,
+    62019,
+    62322,
+    62323,
+    67319,
+    67335,
+    67348,
+    68047,
+]
+
+[herbs]
+name = "Herbs"
+description = { _ = "Herbs used in Alchemy & Inscription." }
+color = 0x0EAD69
+items = [52983, 52985, 52988, 52984, 52986, 52987]
+
+[jewelcrafting]
+name = "Jewelcrafting"
+description = { _ = "Jewelcrafting materials for creating rings, necklaces, gems, etc." }
+color = 0x090446
+items = [
+    52177,
+    52178,
+    52179,
+    52180,
+    52181,
+    52182,
+    52190,
+    52191,
+    52192,
+    52193,
+    52194,
+    52195,
+    52196,
+    52303,
+    52338,
+    52339,
+    71805,
+    71806,
+    71807,
+    71808,
+    71809,
+    71810,
+    77951,
+    77952,
+]
+
+[leather]
+name = "Leather"
+description = { _ = "Leather used in Leatherworking." }
+color = 0x563635
+items = [52976, 56516, 52980, 52979, 52982, 52977]
+
+[meat_and_fish]
+name = "Meat & Fish"
+description = { _ = "Meat & Fish used in Cooking." }
+color = 0xF71735
+items = [
+    53062,
+    53063,
+    53064,
+    53065,
+    53066,
+    53067,
+    53068,
+    53069,
+    53070,
+    53071,
+    53072,
+    62778,
+    62779,
+    62780,
+    62781,
+    62782,
+    62783,
+    62784,
+    62785,
+    62791,
+    67229,
+]
+
+[metal_and_stone] # Rock and stone, brother!
+name = "Metal & Stone"
+description = { _ = "Metal & Stone used in Blacksmithing." }
+color = 0x6E9075
+items = [53038, 58480, 52185, 54849, 51950, 52183, 52186, 65365, 53039]
+
+[parts]
+name = "Parts"
+description = { _ = "Parts used in Engineering." }
+color = 0x5B6057
+items = [52188, 67749, 61981, 60224]
+
+[other]
+name = "Other Tradegoods"
+description = { _ = "Other items used in various professions." }
+color = 0x81F0E5
+items = [
+    52078,
+    52197,
+    52340,
+    56850,
+    61987,
+    62786,
+    65513,
+    65892,
+    65893,
+    65894,
+    65895,
+    65896,
+    65897,
+    68689,
+    69237,
+    71998,
+]
+
+[archeology]
+name = "Archeology"
+description = { _ = "Archeology items." }
+color = 0x864200
+items = [52843, 63127, 63128, 64392, 64394, 64395, 64396, 64397]
