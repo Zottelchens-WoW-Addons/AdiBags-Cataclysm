@@ -1,0 +1,77 @@
+category_name = "Fortune cards"
+category_color = 0x93E5AB
+category_description = { _ = "Test your luck!" }
+mergeable = true
+merged_by_default = true
+
+
+[Myterious_Fortune_Card]
+name = "Mysterious Fortune Card"
+description = { _ = "Flip a card to see your fortune." }
+color = 0x93E5AB
+items = [60838]
+
+[Fortune_Card]
+name = "Fortune Card"
+description = { _ = "Your fortune has been revealed!" }
+color = 0x93E5AB
+items = [
+    60839,
+    60840,
+    60841,
+    60842,
+    60843,
+    60844,
+    60845,
+    62246,
+    62247,
+    62552,
+    62553,
+    62554,
+    62555,
+    62556,
+    62557,
+    62558,
+    62559,
+    62560,
+    62561,
+    62562,
+    62563,
+    62564,
+    62565,
+    62566,
+    62567,
+    62568,
+    62569,
+    62570,
+    62571,
+    62572,
+    62573,
+    62574,
+    62575,
+    62576,
+    62577,
+    62578,
+    62579,
+    62580,
+    62581,
+    62582,
+    62583,
+    62584,
+    62585,
+    62586,
+    62587,
+    62588,
+    62589,
+    62590,
+    62591,
+    62598,
+    62599,
+    62600,
+    62601,
+    62602,
+    62603,
+    62604,
+    62605,
+    62606,
+]
