@@ -1,0 +1,43 @@
+category_name = "Flasks, Elixirs & Potions"
+category_color = 0x769FB6
+category_description = { _ = "Drink this for a powerup!" }
+mergeable = true
+merged_by_default = true
+
+[elixirs]
+name = "Elixirs"
+description = { _ = "Elixirs to drink." }
+color = 0x689a8c
+items = [58094, 58093, 78883, 58143, 58092, 58148, 58144, 58089, 58084, 64640]
+
+[flasks]
+name = "Flasks"
+description = { _ = "Flasks to drink." }
+color = 0xb60f96
+items = [58088, 58087, 58086, 58085, 67438, 65455]
+
+[potions]
+name = "Potions"
+description = { _ = "Potions to drink." }
+color = 0x9DBBAE
+items = [
+    54213,
+    57099,
+    57191,
+    57192,
+    57193,
+    57194,
+    58090,
+    58091,
+    58145,
+    58146,
+    58487,
+    58488,
+    58489,
+    63144,
+    63145,
+    63300,
+    64993,
+    64994,
+    67415,
+]
