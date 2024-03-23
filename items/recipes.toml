@@ -1,0 +1,489 @@
+category_name = "Recipes"
+category_color = 0x68D080
+category_description = { _ = "Recipes for all professions." }
+mergeable = true
+merged_by_default = true
+
+[alchemy]
+name = "Alchemy Recipes"
+description = { _ = "Recipes for crafting potions, elixirs, and transmuting materials." }
+color = 0x4E9A06
+items = [65435, 65498, 67538, 71955, 71956, 71957, 71958, 71959, 71960]
+
+[blacksmithing]
+name = "Blacksmithing Recipes"
+description = { _ = "Recipes for forging metal armor, weapons, and enhancements." }
+color = 0x8F8F8F
+items = [
+    66100,
+    66101,
+    66103,
+    66104,
+    66105,
+    66106,
+    66107,
+    66108,
+    66109,
+    66110,
+    66111,
+    66112,
+    66113,
+    66114,
+    66115,
+    66116,
+    66117,
+    66118,
+    66119,
+    66120,
+    66121,
+    66122,
+    66123,
+    66124,
+    66125,
+    66126,
+    66127,
+    66128,
+    66129,
+    66130,
+    66131,
+    66132,
+    66134,
+    67603,
+    67606,
+    69957,
+    69958,
+    69959,
+    69968,
+    69969,
+    69970,
+    70166,
+    70167,
+    70168,
+    70169,
+    70170,
+    70171,
+    70172,
+    70173,
+    72001,
+    72012,
+    72013,
+    72014,
+    72015,
+    72016,
+    74274,
+]
+
+[enchanting]
+name = "Enchanting Recipes"
+description = { _ = "Recipes for enchanting gear with magical properties." }
+color = 0x5C3566
+items = [
+    52733,
+    52735,
+    52736,
+    52737,
+    52738,
+    52739,
+    52740,
+    64411,
+    64412,
+    64413,
+    64414,
+    64415,
+    67308,
+    67312,
+    68787,
+    68788,
+    68789,
+    71714,
+    78343,
+    78348,
+]
+
+[engineering]
+name = "Engineering Recipes"
+description = { _ = "Recipes for creating gadgets, explosives, and mechanical devices." }
+color = 0xC4A000
+items = [70177, 71078]
+
+# [herbalism]
+# name = "Herbalism Recipes"
+# description = { _ = "Recipes for gathering herbs for use in Alchemy and Inscription." }
+# color = 0x4E9A06
+# items = []
+
+[inscription] # introduced in WotLK
+name = "Inscription Recipes"
+description = { _ = "Recipes for scribing glyphs and crafting scrolls and tomes." }
+color = 0x855C33
+items = [65649, 65650, 65651]
+
+[jewelcrafting] # introduced in TBC
+name = "Jewelcrafting Recipes"
+description = { _ = "Recipes for cutting gems and crafting jewelry." }
+color = 0xAD7FA8
+items = [
+    52362,
+    52363,
+    52364,
+    52365,
+    52366,
+    52367,
+    52368,
+    52369,
+    52370,
+    52371,
+    52372,
+    52373,
+    52374,
+    52375,
+    52376,
+    52377,
+    52378,
+    52379,
+    52380,
+    52381,
+    52382,
+    52383,
+    52384,
+    52385,
+    52386,
+    52387,
+    52388,
+    52389,
+    52390,
+    52391,
+    52392,
+    52393,
+    52394,
+    52395,
+    52396,
+    52397,
+    52398,
+    52399,
+    52400,
+    52401,
+    52402,
+    52403,
+    52404,
+    52405,
+    52406,
+    52407,
+    52408,
+    52409,
+    52410,
+    52411,
+    52412,
+    52413,
+    52414,
+    52415,
+    52416,
+    52417,
+    52418,
+    52419,
+    52420,
+    52421,
+    52422,
+    52423,
+    52424,
+    52425,
+    52426,
+    52427,
+    52428,
+    52429,
+    52430,
+    52431,
+    52432,
+    52433,
+    52434,
+    52435,
+    52436,
+    52437,
+    52438,
+    52439,
+    52440,
+    52441,
+    52442,
+    52443,
+    52444,
+    52445,
+    52447,
+    52448,
+    52449,
+    52450,
+    52451,
+    52452,
+    52453,
+    52454,
+    52455,
+    52456,
+    52457,
+    52458,
+    52459,
+    52460,
+    52461,
+    52462,
+    52463,
+    52464,
+    52465,
+    52466,
+    52467,
+    52494,
+    52495,
+    52496,
+    68359,
+    68360,
+    68361,
+    68742,
+    68781,
+    68782,
+    68783,
+    69820,
+    69853,
+    71821,
+    71884,
+    71885,
+    71886,
+    71887,
+    71888,
+    71889,
+    71890,
+    71891,
+    71892,
+    71893,
+    71894,
+    71895,
+    71896,
+    71897,
+    71898,
+    71899,
+    71900,
+    71901,
+    71902,
+    71903,
+    71904,
+    71905,
+    71906,
+    71907,
+    71908,
+    71909,
+    71910,
+    71911,
+    71912,
+    71913,
+    71914,
+    71915,
+    71916,
+    71917,
+    71918,
+    71919,
+    71920,
+    71921,
+    71922,
+    71923,
+    71924,
+    71925,
+    71926,
+    71927,
+    71928,
+    71929,
+    71930,
+    71931,
+    71932,
+    71933,
+    71934,
+    71935,
+    71936,
+    71937,
+    71938,
+    71939,
+    71940,
+    71941,
+    71942,
+    71943,
+    71944,
+    71945,
+    71946,
+    71947,
+    71948,
+    71965,
+]
+
+[leatherworking]
+name = "Leatherworking Recipes"
+description = { _ = "Recipes for crafting leather and mail armor." }
+color = 0x8B4513
+items = [
+    67042,
+    67044,
+    67046,
+    67048,
+    67049,
+    67053,
+    67054,
+    67055,
+    67056,
+    67058,
+    67060,
+    67062,
+    67063,
+    67064,
+    67065,
+    67066,
+    67068,
+    67070,
+    67072,
+    67073,
+    67074,
+    67075,
+    67076,
+    67077,
+    67078,
+    67079,
+    67080,
+    67081,
+    67082,
+    67083,
+    67084,
+    67085,
+    67086,
+    67087,
+    67089,
+    67090,
+    67091,
+    67092,
+    67093,
+    67094,
+    67095,
+    67096,
+    67100,
+    68193,
+    69960,
+    69961,
+    69962,
+    69963,
+    69971,
+    69972,
+    69973,
+    69974,
+    70174,
+    70175,
+    71721,
+    71999,
+    72005,
+    72006,
+    72007,
+    72008,
+    72009,
+    72010,
+    72011,
+    72025,
+    72026,
+    72027,
+    72028,
+    72029,
+    72030,
+    72033,
+    78345,
+    78346,
+]
+
+# [mining]
+# name = "Mining Recipes"
+# description = { _ = "Recipes for extracting ores and stones." }
+# color = 0x7F7F7F
+# items = []
+
+# [skinning]
+# name = "Skinning Recipes"
+# description = { _ = "Recipes for harvesting leather from beasts." }
+# color = 0x7B3503
+# items = []
+
+[tailoring]
+name = "Tailoring Recipes"
+description = { _ = "Recipes for weaving cloth armor and other cloth items." }
+color = 0xD3D7CF
+items = [
+    54593,
+    54594,
+    54595,
+    54596,
+    54597,
+    54598,
+    54599,
+    54600,
+    54601,
+    54602,
+    54603,
+    54604,
+    54605,
+    67541,
+    68199,
+    69965,
+    69966,
+    69975,
+    69976,
+    70176,
+    72000,
+    72002,
+    72003,
+    72004,
+]
+
+[cooking]
+name = "Cooking Recipes"
+description = { _ = "Recipes for preparing food that provides buffs." }
+color = 0xE9B96E
+items = [
+    62799,
+    62800,
+    65406,
+    65407,
+    65408,
+    65409,
+    65410,
+    65411,
+    65412,
+    65413,
+    65414,
+    65415,
+    65416,
+    65417,
+    65418,
+    65419,
+    65420,
+    65421,
+    65422,
+    65423,
+    65424,
+    65425,
+    65426,
+    65427,
+    65428,
+    65429,
+    65430,
+    65431,
+    65432,
+    65433,
+    68688,
+    78342,
+]
+
+# [Fishing]
+# name = "Fishing Recipes"
+# description = { _ = "Recipes for catching fish and other underwater items." }
+# color = 0x3465A4
+# items = []
+
+# [Archaeology] # introduced in Cataclysm
+# name = "Archaeology Recipes"
+# description = { _ = "Recipes for uncovering artifacts and historical items." }
+# color = 0xC17D11
+# items = []
+
+# [First_Aid] # gone with BFA
+# name = "First Aid Recipes"
+# description = { _ = "Recipes for crafting bandages and anti-venoms." }
+# color = 0xCC0000
+# items = []
